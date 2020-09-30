@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0ec2550-5bab-403c-8011-c533f13983fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iELpCcs09XHMfUCc8dWgYhH6pt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Testing text to image">
+    <configuration name="Testing text to image" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/imageio.test.ts" />
+      <test-names>
+        <test-name value="Testing text to image" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Testing text to image" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0ec2550-5bab-403c-8011-c533f13983fd" name="Default Changelist" comment="" />
+      <created>1601467984489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601467984489</updated>
+      <workItem from="1601467985641" duration="2570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="200" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601468022619">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="360" y="200" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1601468022619" />
+    <state x="511" y="308" key="Github.ShareDialog" timestamp="1601470522561">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="511" y="308" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1601470522561" />
+    <state x="429" y="30" key="Github.UntrackedFilesDialog" timestamp="1601470549624">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="429" y="30" key="Github.UntrackedFilesDialog/0.0.1280.800@0.0.1280.800" timestamp="1601470549624" />
+    <state width="1238" height="207" key="GridCell.Tab.0.bottom" timestamp="1601469242013">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="207" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1601469242013" />
+    <state width="1238" height="207" key="GridCell.Tab.0.center" timestamp="1601469242012">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="207" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1601469242012" />
+    <state width="1238" height="207" key="GridCell.Tab.0.left" timestamp="1601469242011">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="207" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1601469242011" />
+    <state width="1238" height="207" key="GridCell.Tab.0.right" timestamp="1601469242012">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="207" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1601469242012" />
+  </component>
+</project>
